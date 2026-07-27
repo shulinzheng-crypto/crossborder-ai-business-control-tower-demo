@@ -83,8 +83,8 @@
 
 ## 在线 Demo
 
-- 在线演示地址：待填写
-- 演示视频：待填写
+- 在线演示地址：[CrossBorder AI Business Control Tower](https://crossborder-ai-business-control-tower.onrender.com/)
+- 演示视频：[Google Drive 演示视频](https://drive.google.com/file/d/1JRhYbIdOfFZZqPGfYPR4BJTIilnqdlMX/view)
 
 ## 数据说明
 
