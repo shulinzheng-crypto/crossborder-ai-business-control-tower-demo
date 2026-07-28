@@ -17,7 +17,7 @@ CrossBorder AI Business Control Tower
 
 ## 🎥 Demo
 
-- 📹请先看演示视频：需在“datahub”录入4个excel数据表格（可接Amazon API） [Demo Video（HR 演示录屏）](https://drive.google.com/file/d/1JRhYbIdOfFZZqPGfYPR4BJTIilnqdlMX/view?usp=drivesdk)
+- 📹请先看演示视频：需在“Datahub”先录入4个excel数据表格进行分析（可接Amazon API） [Demo Video（HR 演示录屏）](https://drive.google.com/file/d/1JRhYbIdOfFZZqPGfYPR4BJTIilnqdlMX/view?usp=drivesdk)
 - 💻 GitHub Repository（当前仓库）
 - 🌐 [系统demo（在线体验）](https://crossborder-ai-business-control-tower.onrender.com)
 
