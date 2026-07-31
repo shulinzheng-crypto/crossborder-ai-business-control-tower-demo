@@ -2,7 +2,7 @@ CrossBorder AI Business Control Tower
 
 > **一个面向 Amazon 跨境电商的 AI 经营分析与数据治理 Demo**
 >
-> **Interview Demo by Shulin｜仅供无变科技招聘评估使用**
+> **Interview Demo by Shulin｜仅供招聘评估使用**
 >
 > 演示数据均为合成数据，不包含任何真实客户或买家隐私信息。
 
@@ -17,7 +17,7 @@ CrossBorder AI Business Control Tower
 
 ## 🎥 Demo
 
-- 📹请先看演示视频：需在“Datahub”先录入4个excel数据表格进行分析（可接Amazon API） https://drive.google.com/file/d/1xlXYk-cfYEYtQMfPwmTbabX4DNLq5qSl/view
+- 📹请先看演示视频：需在“Datahub”先录入5个excel数据表格进行分析（可接Amazon API） https://drive.google.com/file/d/1xlXYk-cfYEYtQMfPwmTbabX4DNLq5qSl/view
 - 💻 GitHub Repository（当前仓库）
 - 🌐 [系统demo（在线体验）](https://crossborder-ai-business-control-tower.onrender.com)
 
