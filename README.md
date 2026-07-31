@@ -10,8 +10,8 @@ CrossBorder AI Business Control Tower
 
 ## 📸 系统预览
 
-> <img width="1049" height="725" alt="image" src="https://github.com/user-attachments/assets/ac6d5834-d7ca-4d90-90d5-a533e4806e4c" />
 
+<img width="2082" height="1416" alt="9859d5616767128d81f85a78003daab4" src="https://github.com/user-attachments/assets/39305f33-addb-4f99-9c55-966077c11081" />
 
 ---
 
